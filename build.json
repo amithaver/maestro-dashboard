@@ -1,7 +1,7 @@
 {
- "built_at": "2026-11-19T06:10:57+02:00",
- "mode": "full",
- "run_id": "44455285551",
+ "built_at": "2026-11-19T10:09:01+02:00",
+ "mode": "intraday",
+ "run_id": "44483978651",
  "event": "workflow_dispatch",
- "page_sha256": "46db65fd5fd62d6d879f0a92a6b8d9b2798f7cb7c0c78443b5e5fa2c00d2b743"
+ "page_sha256": "ea780332d38e832ac6ce99551949e35611c8ca1828cfaa0c8dce7da5e6a5c2fc"
 }
